@@ -37,3 +37,5 @@ The following configuration is needed inside of Kaazing's `gateway-config.xml` f
         </cross-site-constraint>
     </service>
     ...
+
+Once the Kaazing WebSocket Gateway is up and running you can connect against the Netty Service, with WebSocket or Server-Sent-Event APIs.
